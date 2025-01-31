@@ -8,7 +8,7 @@ export default function Footer() {
         <div className="flex flex-col items-center space-y-6">
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/alexandergese"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 transition-colors duration-200"
@@ -17,7 +17,7 @@ export default function Footer() {
               <span>GitHub</span>
             </a>
             <a
-              href="https://ko-fi.com/yourusername"
+              href="https://ko-fi.com/alexandergese"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 transition-colors duration-200"
@@ -26,7 +26,7 @@ export default function Footer() {
               <span>Ko-fi</span>
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://linkedin.com/in/alexander-gese"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center space-x-2 text-gray-600 hover:text-indigo-600 transition-colors duration-200"
@@ -45,7 +45,7 @@ export default function Footer() {
                   <span className="font-medium text-gray-700">Bitcoin (BTC)</span>
                 </div>
                 <code className="block bg-white/50 p-2 rounded text-sm text-gray-600 break-all">
-                  bc1qxyourbtcaddresshere
+                  bc1q060an2lq8t80vw8me5c7vwk2my86eq55lygtm3
                 </code>
               </div>
               <div className="bg-gradient-to-r from-indigo-50 to-purple-50 p-4 rounded-xl">
@@ -54,7 +54,7 @@ export default function Footer() {
                   <span className="font-medium text-gray-700">Ethereum (ETH)</span>
                 </div>
                 <code className="block bg-white/50 p-2 rounded text-sm text-gray-600 break-all">
-                  0xYourEthereumAddressHere
+                  0x90020912EB74d373b7761E2355D4BAa1A369715F
                 </code>
               </div>
             </div>
