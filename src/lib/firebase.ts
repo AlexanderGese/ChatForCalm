@@ -2,14 +2,14 @@ import { initializeApp } from 'firebase/app';
 import { getDatabase, ref, increment, set, onValue, get } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCuY7Ess6_5owSI8p0mCKDuR7TVj7CxfsY",
-  authDomain: "thewealth-bf304.firebaseapp.com",
-  databaseURL: "https://thewealth-bf304-default-rtdb.firebaseio.com",
-  projectId: "thewealth-bf304",
-  storageBucket: "thewealth-bf304.firebasestorage.app",
-  messagingSenderId: "475633006970",
-  appId: "1:475633006970:web:0d90de4014f79b72427ec3",
-  measurementId: "G-2C5DBJHRQ4"
+  apiKey: "",
+  authDomain: "",
+  databaseURL: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 const app = initializeApp(firebaseConfig);
