@@ -1,6 +1,6 @@
 import { GoogleGenerativeAI } from '@google/generative-ai';
 
-const genAI = new GoogleGenerativeAI('AIzaSyAq-2kJw7pyojvX_5-o1H1pafieROcXrY0');
+const genAI = new GoogleGenerativeAI('');
 
 const INITIAL_PROMPT = `You are an empathetic mental health support assistant named Hope. Your responses should be:
 - Compassionate and understanding
